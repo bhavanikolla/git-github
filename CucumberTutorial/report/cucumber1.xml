@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" tests="5">
+<testcase classname="Gmail Application Testing" name="Gmail Login Test" time="19.778369">
+<system-out><![CDATA[Given user opens gmail page.........................................................passed
+Then user enters email id "bhavani".....................................................passed
+Then user clicks next............................................................passed
+And user enters password "mahathi".....................................................passed
+And user clicks next button.........................................................passed
+And user closes the browser.........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Gmail Application Testing" name="Gmail Login Test" time="12.011394">
+<system-out><![CDATA[Given user opens gmail page.........................................................passed
+Then user enters email id "krishna".....................................................passed
+Then user clicks next............................................................passed
+And user enters password "kurra"......................................................passed
+And user clicks next button.........................................................passed
+And user closes the browser.........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Gmail Application Testing" name="Gmail Login Test" time="10.517033">
+<system-out><![CDATA[Given user opens gmail page.........................................................passed
+Then user enters email id "mahathi".....................................................passed
+Then user clicks next............................................................passed
+And user enters password "kurra"......................................................passed
+And user clicks next button.........................................................passed
+And user closes the browser.........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Gmail Application Testing" name="Gmail Login Test" time="11.464719">
+<system-out><![CDATA[Given user opens gmail page.........................................................passed
+Then user enters email id "mahathi".....................................................passed
+Then user clicks next............................................................passed
+And user enters password "bhavani".....................................................passed
+And user clicks next button.........................................................passed
+And user closes the browser.........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Gmail Application Testing" name="Get Gmail title" time="7.342642">
+<system-out><![CDATA[Given user opens gmail...........................................................passed
+Then get the title of gmail page......................................................passed
+And close the browser............................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
